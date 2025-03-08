@@ -10,12 +10,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Behavioral Patterns\Strategy Pattern\README.md" />
-    <None Remove="Behavioral Patterns\Observer Pattern\README.md" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Creational Patterns\" />
     <Folder Include="Structural Patterns\" />
   </ItemGroup>
 
