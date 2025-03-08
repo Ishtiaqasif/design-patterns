@@ -18,7 +18,7 @@ Here’s a table showing the design patterns that have been implemented in this 
 |-----|--------------------------|--------|------------|
 | 1   | **Creational Patterns**  |        |            |
 | 1.1 | Singleton                 | 🔜     | Medium     |
-| 1.2 | Factory Method           | 🔜     | Medium     |
+| 1.2 | Factory Method           | ✅     | Medium     |
 | 1.3 | Abstract Factory         | 🔜     | Hard       |
 | 1.4 | Builder                   | 🔜     | Medium     |
 | 1.5 | Prototype                 | 🔜     | Medium     |
