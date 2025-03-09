@@ -1,5 +1,4 @@
-﻿using Design_Pattern.Behavioral_Patterns.Observer_Pattern;
-using Design_Pattern.Creational_Patterns.Factory_Method_Pattern;
+﻿using Design_Pattern.Creational_Patterns.Abstract_Factory_Pattern;
 
 namespace Design_Pattern
 {
@@ -9,7 +8,8 @@ namespace Design_Pattern
         {
             //StrategyPatternRunner.Run();
             //ObserverPatternRunner.Run();
-            FactoryMethodPatternRunner.Run();
+            //FactoryMethodPatternRunner.Run();
+            AbstractFactoryPatternRunner.Run();
         }
     }
 }
