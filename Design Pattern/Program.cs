@@ -1,4 +1,4 @@
-﻿using Design_Pattern.Creational_Patterns.Abstract_Factory_Pattern;
+﻿using Design_Pattern.Creational_Patterns.Singleton_Pattern;
 
 namespace Design_Pattern
 {
@@ -9,7 +9,8 @@ namespace Design_Pattern
             //StrategyPatternRunner.Run();
             //ObserverPatternRunner.Run();
             //FactoryMethodPatternRunner.Run();
-            AbstractFactoryPatternRunner.Run();
+            //AbstractFactoryPatternRunner.Run();
+            SingletonPatternRunner.Run();
         }
     }
 }
